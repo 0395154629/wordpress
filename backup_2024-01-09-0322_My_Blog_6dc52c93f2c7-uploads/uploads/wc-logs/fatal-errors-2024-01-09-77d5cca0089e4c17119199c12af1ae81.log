@@ -1,0 +1,2 @@
+2024-01-09T02:26:29+00:00 CRITICAL Cannot redeclare ai1wm_progress_path() (previously declared in /home/vol11_2/infinityfree.com/if0_35749214/htdocs/wp-content/plugins/All-In-One-WP-Migration-With-Import-master/deprecated.php:26) in /home/vol11_2/infinityfree.com/if0_35749214/htdocs/wp-content/plugins/all-in-one-wp-migration/deprecated.php on line 30
+
